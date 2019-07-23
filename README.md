@@ -3,7 +3,7 @@ ThinkingNet is extended NAS model of [[FetchingNAS](https://github.com/Chihcheng
 
 ## Architecture 
 
-![](https://github.com/ChihchengHsieh/ThinkingNet/blob/master/Arch.png
+![](https://github.com/ChihchengHsieh/ThinkingNet/blob/master/Arch.png)
 
 ## Demo Result 
 ![](https://github.com/ChihchengHsieh/ThinkingNet/blob/master/image.png)
